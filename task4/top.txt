@@ -1,0 +1,10 @@
+word1	word2	Similarity
+even	yet	1.0
+get	drove	1.0
+stood	born	1.0
+constituted	made	1.0
+reached	hands	1.0
+minutes	bit	1.0
+get	beat	1.0
+mouth	spoke	1.0
+get	vexed	1.0
